@@ -1,13 +1,18 @@
 * {
     font-family: Courier New, Verdana;
+    text-align: center;
+
 }
 .text {
-    color: rgb(0, 0, 0);
+    color: #262626;
 }
 body {
-    background-color: rgba(134, 220, 100, 0.873);
-}
+    background-color: blanchedalmond;
 
+}
 ul {
     font-weight: bolder;
+    list-style-type: none;
+    margin-left: -40px;
+
 }
